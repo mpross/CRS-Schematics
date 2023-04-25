@@ -8,7 +8,7 @@ CAD renderings: [Solidworks/Models](https://github.com/mpross/CRS-Schematics/tre
 
 Schematic PDFs: [PDFs](https://github.com/mpross/CRS-Schematics/tree/master/PDFs)
 
-![](https://github.com/mpross/CRS-Schematics/blob/master/CRS.png)
+![](https://github.com/mpross/CRS-Schematics/blob/master/CRS.PNG)
 
 ## License
 CRS-Schematics Non-commercial License
